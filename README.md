@@ -20,10 +20,9 @@ My focus is on the intersection of mathematics and code. I am passionate about e
 
 ### Featured Projects
 
-**Modernization of the Spanish Nautical Almanac (ROA)**
-* **Migration and optimization of a legacy Fortran codebase to Python, improving maintainability and performance for the Real Instituto y Observatorio de la Armada.
+* **[Modernization of the Spanish Nautical Almanac (ROA)](https://github.com/AlbertoGomez23/AlmanaPy)** — Migration and optimization of a legacy Fortran codebase to Python, improving maintainability and performance for the Real Instituto y Observatorio de la Armada.
 
-Working on...
+* **Working on...**
 
 ---
 

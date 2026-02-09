@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Alberto Gómez 👋
 
-<!--
-**AlbertoGomez23/AlbertoGomez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** at the University of Cádiz (UCA), specializing in the **Computing Track**.
 
-Here are some ideas to get you started:
+My focus is on the intersection of mathematics and code. I am passionate about extracting value from data and building intelligent systems. I enjoy tackling complex algorithmic problems and optimizing performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+
+* **Machine Learning & AI:** Building models, pattern recognition, and predictive analysis.
+* **Data Science:** Data visualization, processing, and statistical analysis.
+* **Algorithm Design:** Logic, complexity analysis, and optimization.
+* **Backend Engineering:** creating robust logic for applications.
+
+### 🛠 Tech & Tools
+
+* **Languages:** Python · C++ · C · Java
+* **Data Science & AI:** PyTorch · Scikit-learn · NumPy · Pandas · Seaborn · Matplotlib
+* **Databases:** MySQL
+* **Tools & Systems:** Git · Linux · VS Code · Jupyter Notebooks · Docker
+
+### 🚀 Featured Projects
+
+**Modernization of the Spanish Nautical Almanac (ROA)**
+Migration and optimization of a legacy Fortran codebase to Python, improving maintainability and performance for the Real Instituto y Observatorio de la Armada.
+
+**(Aquí puedes poner otro proyecto futuro)**
+Working on...
+
+---
+
+### 📫 Connect with me
+
+I'm always open to discussing new projects, AI trends, or software engineering.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>](https://www.linkedin.com/in/albertogomezmoreno/)
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds

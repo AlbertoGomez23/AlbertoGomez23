@@ -4,6 +4,8 @@ I'm a **Computer Engineering student** at the University of Cádiz (UCA), specia
 
 My focus is on the intersection of mathematics and code. I am passionate about extracting value from data and building intelligent systems. I enjoy tackling complex algorithmic problems and optimizing performance.
 
+---
+
 ### Interests
 
 * **Machine Learning & AI:** Building models, pattern recognition, and predictive analysis.
@@ -11,12 +13,16 @@ My focus is on the intersection of mathematics and code. I am passionate about e
 * **Algorithm Design:** Logic, complexity analysis, and optimization.
 * **Backend Engineering:** creating robust logic for applications.
 
+---
+
 ### Tech & Tools
 
 * **Languages:** Python · C++ · C · Java
 * **Data Science & AI:** PyTorch · Scikit-learn · NumPy · Pandas · Seaborn · Matplotlib
 * **Databases:** MySQL
 * **Tools & Systems:** Git · Linux · VS Code · Jupyter Notebooks · Docker
+
+---
 
 ### Featured Projects
 
@@ -31,5 +37,7 @@ My focus is on the intersection of mathematics and code. I am passionate about e
 I'm always open to discussing new projects, AI trends, or software engineering.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>](https://www.linkedin.com/in/albertogomezmoreno/)
+
+---
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds

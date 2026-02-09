@@ -23,7 +23,6 @@ My focus is on the intersection of mathematics and code. I am passionate about e
 **Modernization of the Spanish Nautical Almanac (ROA)**
 Migration and optimization of a legacy Fortran codebase to Python, improving maintainability and performance for the Real Instituto y Observatorio de la Armada.
 
-**(Aquí puedes poner otro proyecto futuro)**
 Working on...
 
 ---

@@ -17,10 +17,10 @@ My focus is on the intersection of mathematics and code. I am passionate about e
 
 ### Tech & Tools
 
-* **Languages:** Python · C++ · C · Java
-* **Data Science & AI:** PyTorch · Scikit-learn · NumPy · Pandas · Seaborn · Matplotlib
-* **Databases:** MySQL
-* **Tools & Systems:** Git · Linux · VS Code · Jupyter Notebooks · Docker
+* **Languages:** Python · C++ · C · Java · PL/SQL
+* **Data Science & AI:** PyTorch · Scikit-learn · Pandas · NumPy
+* **Databases:** SQL · PL/SQL · MySQL
+* **Tools & Systems:** Git/GitHub · Docker
 
 ---
 
